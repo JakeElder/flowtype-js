@@ -1,0 +1,17 @@
+{
+  "name": "flowtype-js",
+  "version": "0.1.0",
+  "description": "A port of Simple Focus's FlowType.js without the jQuery dependency",
+  "main": "index.js",
+  "repository": "JakeElder/flowtype-js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["flowtype", "responsive", "typography"],
+  "author": "Jake Elder",
+  "license": "ISC",
+  "dependencies": {
+    "extend": "^3.0.0",
+    "get-size": "^2.0.2"
+  }
+}

@@ -7,7 +7,7 @@ A port of Simple Focus's FlowType.js without the jQuery dependency
 `npm install flowtype-js`
 
 ```javascript
-const flowtype = require('flowtype');
+const flowtype = require('flowtype-js');
 
 flowtype(document.querySelector('#your-element'), {
  minimum   : 500,

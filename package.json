@@ -1,6 +1,6 @@
 {
   "name": "flowtype-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A port of Simple Focus's FlowType.js without the jQuery dependency",
   "main": "index.js",
   "repository": "JakeElder/flowtype-js",
